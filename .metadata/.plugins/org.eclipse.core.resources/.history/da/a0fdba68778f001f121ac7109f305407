@@ -1,0 +1,5 @@
+spring.application.name=logging
+
+server.port = 1234
+
+logging.file.name = app.log
